@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dao"},{"l":"metier"},{"l":"metier.entities"},{"l":"test"}];updateSearchResults();
