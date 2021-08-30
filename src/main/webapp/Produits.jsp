@@ -28,7 +28,7 @@
 				<button type="submit" class="btn btn-primary">Chercher</button>
 			</form>
 			
-				<table class="table table-striped">
+				 <table class="table table-striped">
 					<tr>
 						<th>ID</th><th>Nom Produit</th><th>Prix</th>
 						</tr>
